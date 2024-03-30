@@ -3,7 +3,7 @@
 ROMAN_NUMERALS = {'I': 1.0, 'V': 5.0, 'X': 10.0, 'L': 50.0, 'C': 100.0, 'D': 500.0, 'M': 1000.0}
 
 
-def check_valid(roman_list):
+def check_valid_roman(roman_list):
     for numeral in roman_list:
         if numeral.upper() not in ROMAN_NUMERALS:
             raise ValueError('Invalid Input')
@@ -30,7 +30,7 @@ def roman_calculator(roman_list) -> float:
     numbers = []
     i = 0
     try:
-        check_valid(roman_list)
+        check_valid_roman(roman_list)
         numbers = r_converter(roman_list)
         while i < len(numbers) - 1:
             if numbers[i] < numbers[i+1]:
