@@ -28,3 +28,5 @@ TIME SPENT ON PROJECT:
 TIME STARTED: 2:41 PM
 TIME ENDED: 6:20 PM
 TIME SPENT: 3h 39 min
+
+![Notes from Coding Project](https://github.com/Tweagan11/Coding-Challenge-3-30/blob/master/Notes.JPG)
