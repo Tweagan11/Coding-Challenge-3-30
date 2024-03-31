@@ -14,3 +14,17 @@ To create this as an executable file, I used the auto-py-to-exe library.
 Please download the main.zip file and extract all files. There will be a RomanConverter file that you should be able to use, don't worry about the rest.
 
 If you'd like to see my code, all files that end in .py are available to look at, download, and run if you desire.
+
+(When downloading and running the RomanConverter file, I did get a warning that it may be a virus. This is a false positive, but if you'd rather run my code in a Python IDE, then feel free, they should run the exact same)
+
+
+
+TIME SPENT ON PROJECT:
+- Prepping and Planning: 15-30 min
+- RomanToNumber.py: ~1hr
+- NumberToRoman.py: ~1hr
+- Implementing GUI: ~15 min
+
+TIME STARTED: 2:41 PM
+TIME ENDED: 6:20 PM
+TIME SPENT: 3h 39 min
