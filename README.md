@@ -11,7 +11,7 @@ To create this as an executable file, I used the auto-py-to-exe library.
 
 **TO USE THE APPLICATION**
 
-Please download the main.zip file and extract all files. There will be a RomanConverter.exe file that you should be able to use, don't worry about the rest.
+Please download the main.zip file and extract all files. There will be a main.exe file that you should be able to use, don't worry about the rest.
 
 If you'd like to see my code, all files that end in .py are available to look at, download, and run if you desire.
 
