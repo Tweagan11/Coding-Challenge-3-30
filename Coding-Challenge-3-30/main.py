@@ -10,6 +10,9 @@ def helper_roman_to_number():
     if result == -1:
         roman_final.configure(text="Invalid Roman Numeral", text_color="red")
         return
+    if result == -2:
+        roman_final.configure(text="Invalid Numeral Syntax", text_color="red")
+        return
     roman_final.configure(text=f"Result: {result}", text_color="gray")
     return
 

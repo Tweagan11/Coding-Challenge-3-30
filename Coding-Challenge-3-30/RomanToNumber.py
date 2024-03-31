@@ -27,7 +27,10 @@ def roman_to_number(roman_numeral) -> float:
     try:
         check_valid_roman(roman_list)
         numbers = r_converter(roman_list)
+
         while i < len(numbers) - 1:
+            if numbers[i]*10 < numbers[i+1]:
+                return -2
             if numbers[i] < numbers[i+1]:
                 numbers[i] = numbers[i+1] - numbers[i]
                 del numbers[i+1]
