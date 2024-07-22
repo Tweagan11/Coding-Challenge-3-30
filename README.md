@@ -1,3 +1,5 @@
+# THIS WAS FOR A BYU JOB APPLICATION FOR THEIR OIT STUDENT PROGRAMMER. I WAS OFFERED THE JOB, BUT COULDN'T ACCEPT DUE TO TRANSFERRING SCHOOLS
+
 Welcome to my Roman Numeral Calculator!
 
 This calculator gives the user an option to choose between Roman Numeral to Number, and Number to Roman Numeral!
